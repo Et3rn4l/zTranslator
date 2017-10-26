@@ -38,6 +38,6 @@ see image 1:
     <img src="https://raw.githubusercontent.com/bahrmichael/innohacks2017/master/images/step2.PNG?sanitize=true">
     
 </h3>
-![Alt text](images/image-1.png?raw=true "Title")
+![Alt text](zTranslator/translator/image-1.PNG?raw=true "Title")
 
 
