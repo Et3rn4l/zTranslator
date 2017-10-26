@@ -36,7 +36,8 @@ see image 1:
     <img src="https://raw.githubusercontent.com/Et3rn4l/zTranslator/translator/images/image-2.PNG?sanitize=true">
     ![alt text](https://raw.githubusercontent.com/konstantinsteinmiller/zTranslator/master/translator/images/image-2.PNG)
     <img src="https://raw.githubusercontent.com/bahrmichael/innohacks2017/master/images/step2.PNG?sanitize=true">
-
+    
 </h3>
+![Alt text](images/image-1.png?raw=true "Title")
 
 
