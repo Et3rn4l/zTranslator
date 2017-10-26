@@ -30,7 +30,7 @@ Future improvements will probably include a storage in Google FireStore
 
 see image 1:
 <h3 align="center">
-    <img src="image-1.PNG?sanitize=true">
+    <img src="zTranslator/translator/image-1.PNG?sanitize=true">
 </h3>
 <h3 align="center">
     <img src="https://raw.githubusercontent.com/Et3rn4l/zTranslator/translator/images/image-2.PNG?sanitize=true">
