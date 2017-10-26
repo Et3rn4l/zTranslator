@@ -30,14 +30,10 @@ Future improvements will probably include a storage in Google FireStore
 
 see image 1:
 <h3 align="center">
-    <img src="zTranslator/translator/image-1.PNG?sanitize=true">
+    ![image-1](https://user-images.githubusercontent.com/10655837/32062300-65af076c-ba74-11e7-89d2-16c9ece5a7ee.PNG)
 </h3>
 <h3 align="center">
-    <img src="https://raw.githubusercontent.com/Et3rn4l/zTranslator/translator/images/image-2.PNG?sanitize=true">
-    ![alt text](https://raw.githubusercontent.com/konstantinsteinmiller/zTranslator/master/translator/images/image-2.PNG)
-    <img src="https://raw.githubusercontent.com/bahrmichael/innohacks2017/master/images/step2.PNG?sanitize=true">
-    
+  ![image-2](https://user-images.githubusercontent.com/10655837/32062332-811eedbe-ba74-11e7-9def-34580475213e.PNG)
 </h3>
-![Alt text](zTranslator/translator/image-1.PNG?raw=true "Title")
 
 
