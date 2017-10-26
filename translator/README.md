@@ -28,12 +28,4 @@ Currently the translation data is stored in the localStorage for progressive tra
 which has its limitations.
 Future improvements will probably include a storage in Google FireStore
 
-see image 1:
-<h3 align="center">
-    ![image-1](https://user-images.githubusercontent.com/10655837/32062300-65af076c-ba74-11e7-89d2-16c9ece5a7ee.PNG)
-</h3>
-<h3 align="center">
-  ![image-2](https://user-images.githubusercontent.com/10655837/32062332-811eedbe-ba74-11e7-9def-34580475213e.PNG)
-</h3>
-
 

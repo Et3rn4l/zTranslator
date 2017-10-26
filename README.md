@@ -28,12 +28,4 @@ Currently the translation data is stored in the localStorage for progressive tra
 which has its limitations.
 Future improvements will probably include a storage in Google FireStore
 
-see image 1:
-<h3 align="center">
-    <img src="https://raw.githubusercontent.com/konstantinsteinmiller/zTranslator/translator/images/image 1.PNG?sanitize=true">
-</h3>
-<h3 align="center">
-    <img src="https://raw.githubusercontent.com/konstantinsteinmiller/zTranslator/translator/images/image 2.PNG?sanitize=true">
-</h3>
-
 
